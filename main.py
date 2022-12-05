@@ -6,7 +6,7 @@ import category
 import purchase
 # bot init
 
-bot = Bot(token="5841150507:AAGI_bohSAg-hGp8do4RzpGVs0VQGKFexds")
+bot = Bot(token="")
 dp = Dispatcher(bot)
 
 @dp.message_handler()
